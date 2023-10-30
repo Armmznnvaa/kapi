@@ -1,0 +1,869 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+nav,header,section,footer{
+	width: 100%;
+	float: left;
+}
+nav {
+	padding: 15px 0;
+}
+nav li
+{
+	
+	display: inline-block;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	margin: 0 auto;
+}
+.nav-logo {
+	width: 20%;
+	float: left;
+}
+.navbar {
+	width: 80%;
+	float: left;
+}
+.baw {
+	float: right;
+}
+
+a{
+	text-decoration: none;
+	color:#212529 ;
+	font-size: 15px
+}
+.axtar{
+	background-color: white;
+	color: red;
+	border: 1px solid red;
+	border-radius: 8px ;
+	padding: 6px;
+}
+.adress{
+	color: red;
+}
+.qalın{
+	color: black;
+	width: 20%;
+	font-size: 15px;
+}
+.ii{
+	color: white;
+	background-color: #f45369;
+	padding: 7px;
+	border: 0;
+	border-radius: 7px;
+	width: 7%;
+	font-size: 18px;
+}
+header{
+	font-size: 60px;
+	background-color: #e8ecf1;
+}
+.okk li{
+	display: inline-block;
+}
+.okk{
+	width: 70%;
+	float: left;
+}
+.okkk {
+	width: 30%;
+	float: left;
+	text-align: right;
+}
+.umumi{
+	background-color: #e8ecf1;
+	text-align: center;
+	width: 100%;
+	margin-top: 1px;
+	float: left;
+	margin-bottom: 20px;
+	padding: 30px 0;
+}
+.tam{
+	width: 70%;
+	margin: 0 auto;
+
+
+}
+.divimg img{
+	margin-right: 40px;
+	width: 30%;
+	float: left;
+}
+.divbut{
+	width: 50%;
+	float:left;
+	margin-left: 2px;
+
+
+}
+.butt{
+	color: white;
+	background-color:#f45369 ;
+	padding: 15px 90px 15px 90px;
+	border: 0;
+	border-radius: 10px;
+	font-size: 20px;
+	float: left;
+}
+.soz{
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+	margin-right: 300px;
+
+}
+.heri i{
+	color:#f45369 ;
+	display: block;
+	font-size: 35px;
+
+}
+.yazi, .heri {
+	width: 100%;
+	float: left;
+}
+.yazi p {
+	font-size: 35px;
+	display: block;
+}
+.box{
+	width: 15%;
+	float: left;
+	padding: 35px 1px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+	border: 0;
+	border-radius: 25px;
+	margin-right: 60px;
+	box-shadow:  0px 2px 10px  #f0f0f0;
+}
+.xett  {
+	background-color: grey;
+    width: 7%;
+    height: 2px;
+    margin-left: 44%;
+    margin-top: 21px;
+    float: left;
+}
+
+.birum{
+	width: 100%;
+	float: left;
+	padding: 40px 0;
+}
+.birtam {
+	width: 100%;
+	float: left;
+	
+}
+.nem{ 
+	width: 100%;
+	float: left;
+}
+.quru{
+	width: 100%;
+	float: left;
+	background-color: #e8ecf1;
+	padding: 20px 0;
+}
+.nem h6{
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+.ikibut {
+	color: white;
+	background-color: #f45369;
+	border: 0;
+	border-radius: 10px;
+	padding: 15px  100px;
+	font-size: 23px;
+	margin-top: 30px;
+
+}	
+.quru h1{
+	color:#f45369 ;
+	font-size: 30px;
+	display: block;
+} 
+.dord button {
+	color: #bdc3c7;
+	font-size: 25px;
+	float: right;
+	margin-right: 50px;
+	background-color: #e9ecf0;
+	border: 0;
+	margin-top: 185px;
+
+}
+.ortalama {
+	width: 80%;
+	margin: 0 auto;
+}
+.solteref{
+	width: 70%;
+	float: left;
+}
+.sagteref{
+	width: 30%;
+	float: left;
+}
+
+.uc{
+	position: relative;
+}
+.uc img{
+	position: absolute;
+	top: -140px;
+}
+.nem p{
+	
+	
+	font-size: 19px;
+
+}
+.iii{
+	margin-bottom: 35px;
+}
+.bir{
+	width: 100%;
+	display: inline-block;
+	font-size: 18px;
+}
+
+.txt {
+	width: 25%;
+	float: left;
+}
+.txt span {
+	display: block;
+}
+.txt:last-child {
+	width: 50%;
+}
+.asuc button{
+	color: white;
+	background-color: #f45369;
+	border: 0;
+	border-radius: 10px;
+	padding: 15px  0px;
+	font-size: 23px;
+	width: 88%;
+	margin-top: 30px;
+
+}
+.asagi{
+	width: 100%;
+	float: left;
+	background-color: #e8ecf1;
+	padding: 20px 0;
+
+
+
+}
+.yuxari
+{
+	width: 100%;
+	float: right;
+	margin-left: 100px;
+
+}
+.fin{
+	border: 0;
+	font-size: 16px;
+	border-radius: 10px;
+	padding: 16px 0px;
+	width: 88%;
+
+}
+.tel{
+	border: 0;
+	font-size: 16px;
+	border-radius: 10px;
+	padding: 16px 0px;
+	width: 88%;
+
+}
+.yox 
+{
+	border: 1px solid  #bdc3c7;
+	background-color: white;
+	border-radius: 2px;
+	padding: 2px 9px;
+
+}
+.yuxari h1{
+	float: right;
+	font-size: 40px;
+	color: black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 400px;
+	
+}
+
+.left {
+	width: 30%;
+	float: left;
+}
+.right{
+	width: 70%;
+	float: left;
+}
+.asiki{
+	width: 50%;
+	float: left;
+
+}
+.asuc{
+	width: 50%;
+	float: left;
+}
+.asbir{
+	width: 100%;
+	position: relative;
+	height: 1px;
+}
+.asbir img {
+	width: 100%;
+	position: absolute;
+	top: -135px;
+}
+.yuxari p{
+	font-size: 19px;
+	float: right;
+	color: black;
+	margin-bottom: 40px;
+	margin-right: 22px;
+	
+
+}
+.yox { display: inline-block;
+
+
+}
+.asiki p{
+	font-size: 12px;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+
+}
+.aa{
+	width: 60%;
+	float: left;
+}
+.bb{
+	width: 30%;
+	float: left;
+	border: 1px solid #e9ecf0;
+	border-radius: 2px;
+	background-color: white;
+	text-align: center;
+	padding: 56px 1px;
+	margin-left: 46px;
+	margin-top: 92px;
+}
+.umumii{
+	width: 100%;
+	margin: 0 auto;
+}
+.qr{
+	padding: 7px 27px;
+	font-size: 14px;
+	border: 0;
+	border-radius: 20px;
+	color: white;
+	background-color: #f45369;
+}
+.bz
+{
+	padding: 7px 27px;
+	font-size: 14px;
+	border: 0;
+	border-radius: 20px;
+	color: black;
+	background-color:#e8ecf1 ;
+
+}
+.cc h1{
+
+
+	font-size: 40px;
+	color: black;
+	margin-bottom: 20px;
+
+}
+.dd p{ 
+	font-size: 25px;
+	margin-bottom: 16px;
+	margin-top: 20px;
+
+}
+.dd span{
+	font-size: 18px;
+   
+}
+.ee input {
+	display: block;
+	margin-top: 20px;
+	
+	padding: 28px 22px;
+	border-radius: 10px;
+	color: #e8ecf1 ;
+	background-color: white ;
+	
+
+}
+.ff {
+	color: white;
+	font-size: 18px;
+	border: 0;
+	border-radius: 10px;
+	padding: 17px  140px;
+	background-color: #f45369;
+
+}
+.bb h1
+{
+	color:#f45369 ;
+	font-size: 53px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.bb p{
+	font-size: 25px;
+	text-align: center;
+}
+.txt1{
+   font-size: 27px;
+   color: #f45369;
+
+}
+.c input{
+	width: 18px;
+	height: 20px;}
+
+.hi{
+	float: right;
+	position: absolute;
+	top: 3px;
+	right: 0;
+
+	
+	}	
+.hihi{
+	float: left;
+	position: absolute;
+	top: 3px;
+
+	
+}
+.kr-foot{
+	position: relative;
+}
+.kr-body{
+	position: relative;
+	width: 100%;
+}
+.a{
+	width: 97%;
+}
+
+.kr-head{
+	width: 100%;
+	position: relative;
+}
+.kr-head span{
+	position: absolute;
+	top: 2px;
+	left: 26px;
+	color: gray;
+
+}
+.kr-head input{
+	width: 93%;
+}
+.kr-body input{
+	position: absolute;
+	top: -57px;
+	width: 93%;
+}
+.orta{
+	width: 100%;
+	margin-top: 40px;
+	float: left;
+
+}
+.sool{
+	width: 49%;
+	background-color: #e8ecf1;
+	float: left;
+	border-radius: 20px 20px 20px 20px;
+	padding-bottom: 36px;
+}
+.sool-teref {
+	width: 47%;
+	float: left;
+	padding-left: 20%;
+}
+.sool h1{
+	font-size: 37px;
+	margin-top: 39px;
+	color: #ef3e42;
+
+}
+.sool p {
+	color:#ef3e42 ;
+	font-size: 16px;
+	margin-top: 11px;
+	margin-bottom: 91px;
+}
+.sool img{
+	float: right;
+	width: 66%;
+	margin-right: 32px;
+}
+.imgg{
+	float: right;
+	padding: 0px 40px;
+	position: relative;
+	top: -290px;
+	width: 30%;
+}
+.sool img{
+	position: absolute;
+}
+.sool a{
+	text-align: center;
+	color:#ef3e42  ;
+	font-size: 16px;
+}
+.saag{
+	width: 48%;
+	background-color: #ef3e42;
+	float: right;
+	border-radius: 19px 0px 0px 19px ;
+}
+.saag h1{
+	font-size: 37px;
+	margin-top: 39px;
+	color: white;
+}
+.saag p{
+	color: white;
+	font-size: 16px;
+	margin-top: 11px;
+	margin-bottom: 91px;
+}
+.saag img{
+	float: right;
+	width: 66%;
+	margin-right: 32px;
+	position: absolute;
+}
+.immg{
+	float: right;
+	padding: 0px 40px;
+	position: relative;
+	top: -221px;
+	width: 30%;
+}
+.saag a{
+	font-size: 16px;
+	color: white;
+}
+.orrta{
+	width: 100%;
+	background-color: #e8ecf1;
+	margin-top: 40px;
+
+}
+.ust{
+	width: 100%;
+	float: left;
+}
+.ust  h1{
+	font-size: 41px;
+	margin-top: 42px;
+	float: left;
+}
+.ust a{
+	font-size: 17px;
+	color: #ef3e42;
+	float: right;
+	margin-top: 59px;
+}
+.alt-bir{
+	width: 30%;
+	float: left;
+	margin-right: 20px;
+}
+.alt-dord{
+	width: 5%;
+	padding: 34px 0;
+	float: right;
+}
+.alt{
+	width: 100%;
+	display: inline-block;
+	padding: 30px 0 75px 0;
+}
+.buu{
+	width: 20%;
+	float: left;
+	text-align: center;	
+	margin-right: 10px;
+	margin-bottom: -24px;
+}
+.pf{
+	width: 77%;
+	float: left;
+}
+.xettt{
+	width: 100%;
+	float: left;
+	height: 3px;
+	background-color: white;
+	margin-top: 30px;
+}
+.alt-dord button{
+	border: 0;
+	font-size: 31px;
+	margin-left: 50px;
+	color: #bdc3c7;
+}
+
+
+.buuu{
+	border: 1px solid #ef3e42;
+	font-size: 28px;
+	border-radius: 29px;
+	padding: 10px;
+}
+
+.pff p{
+	margin-top: 20px;
+
+}
+.pf p{
+	margin-top: 20px;
+
+}
+.pfff p {
+ margin-top: 32px;
+}
+.buuu{
+	margin-top: 17px;
+}
+.alt p{
+	font-size: 20px;
+}
+.ll{
+	width: 100%;
+	float: left;
+	margin: 60px 0px 40px;
+}
+.ssol{
+	width: 60%;
+	float: left;
+}
+.ssol span{
+	display: block;
+}
+.ssol b{
+	font-size: 35px;
+
+}
+.of table{
+	width: 100%;
+	margin: 50px 0 px;
+}
+.of th{
+	color: #414242;
+	border-bottom: 1px solid #e8ecf0;
+	padding: 15px;
+	text-align: left;
+	font-size: 24px;
+
+}
+.of td{border-bottom: 1px solid #e8ecf0;
+	padding: 15px;
+	text-align: left;
+	font-size: 24px;
+
+}
+.ssol a{
+	color: #f45369;
+
+}
+.ssag{
+	width: 40%;
+	float: left;
+	position: relative;
+	
+}
+.do input{
+	width: 80%;
+	padding: 13px 12px;
+	border-radius: 8px;
+	border: 1px solid #e8ecf0;
+	position: absolute ;
+
+}
+select{
+	width: 16%;
+	padding: 9px 11px;
+	border: 1px solid #f45369;
+	border-radius: 7px;
+	position: absolute;
+} 
+.ssag table{
+	width: 100%;
+	margin: 50px 0;
+	border:1px solid #e8ecf0 ;
+	position: absolute;
+	top: -13px;
+	border-radius: 7px;
+	background-color:#e8ecf0  ;
+
+}
+.ssag td{
+	border-bottom: 1px solid white;
+	text-align: left;
+	padding: 15px;
+	font-size: 24px;
+}
+.ssag th{
+	border-bottom: 1px solid white;
+	text-align: left;
+	padding: 15px;
+	padding-top: 90px;
+	text-align: center;
+	font-size: 24px;
+
+}
+.nnn{
+	font-size: 36px;
+}
+.mmm{
+	color:  #555858;
+	margin-bottom: 44px;
+	font-size: 18px;
+	margin-top: 6px;
+
+}
+.ortalam{
+	width: 100%;
+	float: left;
+	background-color: #2e3131;
+	padding: 0px 0px 100px 0px;
+
+}
+.qeseg{
+	width: 100%;
+	float: left;
+
+}
+.qessol{
+	width: 80%;
+	float: left;
+}
+.qessag{
+	width: 20%;
+	display: block;
+	float: left;
+}
+.icons{
+	width: 94%;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.qutar5 button{
+	padding: 14px 34px;
+	border-radius: 10px;
+	border: 0px;
+	color: white;
+	font-size: 14px;
+	display: block;
+	background-color: #f45369;
+	margin-top: 20px;
+
+
+}
+.qutar1 {
+	width: 25%;
+	float: left;
+}
+.qutar1 li, .qutar1 a {
+	display: block !important;
+}
+.qessol a{
+	color: white;
+	font-size: 15px;
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.icons a{
+	color: white;
+	font-size: 18px;
+	margin-left: 20px;
+
+}
+.a1{
+	padding: 8px  12px;
+	border: 1px solid #f45369;
+	color: white;
+	font-size: 22px;
+	background-color: #2e3131;
+	border-radius: 8px;
+}
+.a1 i{
+	color: #f45369;
+}
+.uzun{
+	width: 90%;
+	float: left;
+	height: 1px;
+	background-color: grey;
+	margin-bottom: 30px;
+	margin-left: 80px;
+
+
+}
+.yasasol{
+	float: left;
+	color: white;
+	font-size: 15px;
+	margin-left: 80px;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.bz:hover {
+	background-color: red;
+	color: white;
+	transition: 0.5s;
+}
+.do{
+	position: absolute;
+	z-index: 1;
+	top: 50px;
+	width: 100%;
+	left: 37px;
+}
+.kk{
+	position: absolute;
+	z-index: 1;
+	top: 5px;
+	right: 74px;
+}
